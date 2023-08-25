@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
- * main - This prints Programming is like building a multilingual puzzle
+ * main - This is the entry point of the code
  *
  * Always return 0;
- *
  */
 
 int main(void)
