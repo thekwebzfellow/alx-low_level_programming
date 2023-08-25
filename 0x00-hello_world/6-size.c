@@ -3,7 +3,9 @@
 /**
  * main - This is the entry point
  *
- * This function prints the size of various data types
+ * This function prints the size of various data types.
+ *
+ * It does not explicitly return value because it has a void return type
  *
  * Return - 0 is successful
  */
