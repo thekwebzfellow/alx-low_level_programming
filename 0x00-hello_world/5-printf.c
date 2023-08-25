@@ -2,6 +2,8 @@
 /**
  * main - This is the entry point
  *
+ * The main function returns the integer value to the operating system. This shows the exit status of the program
+ *
  * Return - 0 is successful
  */
 
