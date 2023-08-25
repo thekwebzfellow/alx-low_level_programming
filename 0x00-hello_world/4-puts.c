@@ -1,8 +1,11 @@
 #include <stdio.h>
+
 /**
+ *
  * main - This is the entry point of the code
  *
- * Always return 0;
+ * Always return 0 - successful;
+ *
  */
 
 int main(void)
